@@ -8,7 +8,7 @@
 - PLA filament
 
 # Explanation
-![3d models](pic/genjin_box v7.png)
+![3d models](pic/genjin_box%20v7.png)
  This model is assembled by snap-fit joints without screws. There are no obvious joints or screw holes, which is cool. Buttons are also inset and do not require the use of adhesives.
 
 # P.S.
