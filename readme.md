@@ -4,7 +4,9 @@
 
 # Parts list
 - [Kailh Choc v1](http://www.kailh.com/en/Products/Ks/CS/321.html)
+- [waveshare rp2040 zero](https://www.waveshare.com/wiki/RP2040-Zero)
 - 6x6mm tactile switch
+- wire(Polyurethane copper wire recommended)
 - PLA filament
 
 # Explanation
